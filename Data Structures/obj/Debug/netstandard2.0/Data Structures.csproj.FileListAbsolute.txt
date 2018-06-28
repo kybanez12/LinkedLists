@@ -1,0 +1,18 @@
+/Users/anguyen/RiderProjects/Data Structures/Data Structures/bin/Debug/netstandard2.0/Data Structures.deps.json
+/Users/anguyen/RiderProjects/Data Structures/Data Structures/bin/Debug/netstandard2.0/Data Structures.dll
+/Users/anguyen/RiderProjects/Data Structures/Data Structures/bin/Debug/netstandard2.0/Data Structures.pdb
+/Users/anguyen/RiderProjects/Data Structures/Data Structures/obj/Debug/netstandard2.0/Data Structures.csprojResolveAssemblyReference.cache
+/Users/anguyen/RiderProjects/Data Structures/Data Structures/obj/Debug/netstandard2.0/Data Structures.csproj.CoreCompileInputs.cache
+/Users/anguyen/RiderProjects/Data Structures/Data Structures/obj/Debug/netstandard2.0/Data Structures.AssemblyInfoInputs.cache
+/Users/anguyen/RiderProjects/Data Structures/Data Structures/obj/Debug/netstandard2.0/Data Structures.AssemblyInfo.cs
+/Users/anguyen/RiderProjects/Data Structures/Data Structures/obj/Debug/netstandard2.0/Data Structures.dll
+/Users/anguyen/RiderProjects/Data Structures/Data Structures/obj/Debug/netstandard2.0/Data Structures.pdb
+C:\Users\kyban\Source\Repos\DataStructures-1\Data Structures\bin\Debug\netstandard2.0\Data Structures.deps.json
+C:\Users\kyban\Source\Repos\DataStructures-1\Data Structures\bin\Debug\netstandard2.0\Data Structures.dll
+C:\Users\kyban\Source\Repos\DataStructures-1\Data Structures\bin\Debug\netstandard2.0\Data Structures.pdb
+C:\Users\kyban\Source\Repos\DataStructures-1\Data Structures\obj\Debug\netstandard2.0\Data Structures.csprojAssemblyReference.cache
+C:\Users\kyban\Source\Repos\DataStructures-1\Data Structures\obj\Debug\netstandard2.0\Data Structures.csproj.CoreCompileInputs.cache
+C:\Users\kyban\Source\Repos\DataStructures-1\Data Structures\obj\Debug\netstandard2.0\Data Structures.AssemblyInfoInputs.cache
+C:\Users\kyban\Source\Repos\DataStructures-1\Data Structures\obj\Debug\netstandard2.0\Data Structures.AssemblyInfo.cs
+C:\Users\kyban\Source\Repos\DataStructures-1\Data Structures\obj\Debug\netstandard2.0\Data Structures.dll
+C:\Users\kyban\Source\Repos\DataStructures-1\Data Structures\obj\Debug\netstandard2.0\Data Structures.pdb
